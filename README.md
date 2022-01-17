@@ -32,7 +32,7 @@
 </p>
 
 
-> fork from 2.3 releases && do executor  change  title  lenght from 12 to 64
+> fork from 2.3 releases && do executor  change  title  lenght from 12 to 64 && docker image can use dalongrong/xxl-job-admin:2.3.0-bugfix3
 
 ## Introduction
 XXL-JOB is a distributed task scheduling framework. 
